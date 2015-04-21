@@ -4,4 +4,5 @@ AS
 	SELECT * from Table_1
 	go
 	go
+	go
 
